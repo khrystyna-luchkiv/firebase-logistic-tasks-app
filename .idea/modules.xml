@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../auth--01-form-actions/.idea/auth--01-form-actions.iml" filepath="$PROJECT_DIR$/../auth--01-form-actions/.idea/auth--01-form-actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/firebase-logistic-tasks-app.iml" filepath="$PROJECT_DIR$/.idea/firebase-logistic-tasks-app.iml" />
     </modules>
   </component>
